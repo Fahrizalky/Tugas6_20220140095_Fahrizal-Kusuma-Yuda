@@ -1,0 +1,23 @@
+body{
+    background-image: url(background.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+h1{
+    font-family: 'Great Vibes', cursive;
+    color: rgb(86, 245, 96);
+}
+h2{
+    font-family: 'Lobster Two', cursive;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    text-align:center;
+    border: 2px solid #2961ee;
+    background: #6ad4e4;
+    color: #eb5fd6;
+    box-shadow: 1px 1px 2px #24b7d0;
+    border-radius: 10px;
+    padding: 3px 10px;
+    cursor: pointer;
+}
